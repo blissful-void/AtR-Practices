@@ -1,6 +1,7 @@
 # Table of Contents
 1. [Where to Start](#where-to-start)
 2. [How to Contemplate](#how-to-contemplate)
+3. [Visual Diagram of the Seven Stages](#visual-diagram)
 3. [Stage 1: I AM / Eternal Witness](#stage1)
 4. [Stage 2: I AM Everything](#stage2)
 5. [Stage 3: Entering into Nothingness](#stage3)
@@ -27,6 +28,9 @@ For discussions, you are welcome to join the [Awakening to Reality Facebook grou
 Let the contemplation/inquiry flow naturally. Don't let it become a repetitive verbal mantra. Instead, it should be treated as an investigation. Avoid trying to find an answer through logic, or dwelling in conceptual answers - it should be an experiential exercise. When doing self-inquiry, allow the doubt to build up and drive the inquiry.
 
 > The doubt is itself the inquisitiveness and curiosity (an important key element to successful self-enquiry - otherwise the thought 'Who am I?' will just be a monotonous and robotic mental chanting like a mantra rather than lead the mind to the Source) to really find out the truth of your Being. You have to ask "Who am I?" like you really, really mean it, like you really, really want to find out what you truly are at the core of your Being and unlock the secret of Existence. Like, what the hell, after all these years living on this planet, what is at the core of this wondrous Life itself? What is this Existence? What am I??? I've seen many things in life and lived for so many years, but WHO is living this Life? Who is seeing, hearing, smelling? Who is dragging this corpse along? That's the meaning of doubt, nothing else.
+
+# Visual Diagram of the Seven Stages <a name="visual-diagram"></a>
+![Diagram](assets/stages_visual_diagram.png)
 
 # Stage 1: I AM / Eternal Witness <a name="stage1"></a>
 
