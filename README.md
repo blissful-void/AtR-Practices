@@ -11,6 +11,7 @@
 9. [Stage 7: Presence is Spontaneously Perfected](#stage7)
 10. [Additional Materials](#additional-materials)
 
+
 # Where to Start <a name="where-to-start"></a>
 
 If you haven't already, first refer to the [Awakening to Reality blog](http://awakeningtoreality.blogspot.com/) and go through the 'Must Reads'. Next, reading the free E-Books is highly recommended:
@@ -23,14 +24,17 @@ This page is intended as a quick reference guide for those who are already famil
 
 For discussions, you are welcome to join the [Awakening to Reality Facebook group](https://www.facebook.com/groups/AwakeningToReality/).
 
+
 # How to Contemplate <a name="how-to-contemplate"></a>
 
 Let the contemplation/inquiry flow naturally. Don't let it become a repetitive verbal mantra. Instead, it should be treated as an investigation. Avoid trying to find an answer through logic, or dwelling in conceptual answers - it should be an experiential exercise. When doing self-inquiry, allow the doubt to build up and drive the inquiry.
 
 > The doubt is itself the inquisitiveness and curiosity (an important key element to successful self-enquiry - otherwise the thought 'Who am I?' will just be a monotonous and robotic mental chanting like a mantra rather than lead the mind to the Source) to really find out the truth of your Being. You have to ask "Who am I?" like you really, really mean it, like you really, really want to find out what you truly are at the core of your Being and unlock the secret of Existence. Like, what the hell, after all these years living on this planet, what is at the core of this wondrous Life itself? What is this Existence? What am I??? I've seen many things in life and lived for so many years, but WHO is living this Life? Who is seeing, hearing, smelling? Who is dragging this corpse along? That's the meaning of doubt, nothing else.
 
+
 # Visual Diagram of the Seven Stages <a name="visual-diagram"></a>
 ![Diagram](assets/stages_visual_diagram.png)
+
 
 # Stage 1: I AM / Eternal Witness <a name="stage1"></a>
 
@@ -41,6 +45,7 @@ Let the contemplation/inquiry flow naturally. Don't let it become a repetitive v
 - "Who / what am I beyond name and form?"
 - "Who is dragging this corpse along?"
 - "Who hears and who sees?"
+
 
 # Stage 2: I AM Everything <a name="stage2"></a>
 
@@ -56,11 +61,13 @@ Let the contemplation/inquiry flow naturally. Don't let it become a repetitive v
 - Dissolving the need to return or abide in I AM
 - Effortlessness
 
+
 # Stage 3: Entering into Nothingness <a name="stage3"></a>
 
 ## Dropping
 
-- Drop away everything (knowledge, mind, body, etc).
+- Drop away everything (knowledge, mind, body, etc)
+
 
 # Stage 4: Presence as Mirror Bright Clarity <a name="stage4"></a>
 
@@ -77,6 +84,7 @@ Let the contemplation/inquiry flow naturally. Don't let it become a repetitive v
 - Challenging inside/outside, subject/object dichotomy
 - Investigating seamless awareness and manifestation
 
+
 # Stage 5: No Mirror Reflecting (“Anatta / No-Self / Firstfold Emptiness”) <a name="stage5"></a>
 
 ## Contemplation
@@ -87,6 +95,18 @@ Let the contemplation/inquiry flow naturally. Don't let it become a repetitive v
 ## Investigation
 
 - Investigate and challenge all sense of awareness being unchanging and independent
+- Absence of temporal identity (awareness must dissolve at each moment to update its content and appearance)
+- Absence of spatial identity (awareness of/as blue sky can't be the same as the awareness of/as green tree, otherwise the sky and the tree would be exactly the same and indistinguishable)
+
+
+![Linked thoughts](assets/linked_thoughts.png)
+
+Each oval represents a thought. Normally, we leave one thought only when we have another one to go to (as the arrows indicate), but to think in this way constitutes ignorance. Instead, we should realize that thinking is actually like this:
+
+![Unlinked thoughts](assets/unlinked_thoughts.png)
+
+Then we will understand the true nature of thoughts: that thoughts do not arise from each other but by themselves. ~ Zen teacher David Loy, [Nondual Thinking](http://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-JOCP/jc26559.htm)
+
 
 # Stage 6: The Nature of Presence is Empty (“Sunyata / Secondfold Emptiness”) <a name="stage6"></a>
 
@@ -108,6 +128,7 @@ Let the contemplation/inquiry flow naturally. Don't let it become a repetitive v
 - "30 years of practice and 23 years of kitchen life is like a passing thought. How heavy is this thought? The whereabouts of this thought? Taste the nature of this thought. It never truly arises." - John Tan, 2013
 - “Appreciate the vivid, lurid scenery in non-dual and ask, Where is this scenery?” – John Tan, 2016
 
+
 # Stage 7: Presence is Spontaneously Perfected <a name="stage7"></a>
 
 ## Contemplation
@@ -118,9 +139,10 @@ Let the contemplation/inquiry flow naturally. Don't let it become a repetitive v
 >All phenomena are ‘interconnected’ and by nature Maha.\
 >All are always and already so.
 
+
 # Additional Materials <a name="additional-materials"></a>
 
-## Bahiya Sutta <a name="bahiya-sutta"></a>
+## Bāhiya Sutta <a name="bahiya-sutta"></a>
 
 > Then, Bāhiya, you should train yourself thus:\
 > In reference to the seen, there will be only the seen.\
